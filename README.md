@@ -5,3 +5,6 @@ screenshot for activity 1:
 
 screenshot for activity 2:
 <img width="562" alt="Screenshot 2023-09-09 at 8 05 06 PM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/e55732a6-d780-45b6-83b4-9fb2cbbc5d55">
+
+screenshot for activity 3:
+<img width="799" alt="Screenshot 2023-09-09 at 9 28 07 PM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/03b98d14-6d7e-4ae7-993c-fd50a80902fb">
