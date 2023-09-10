@@ -41,3 +41,6 @@ push rebase:
 
 debelop branch's commits on web page:
 <img width="782" alt="Screenshot 2023-09-10 at 3 25 14 AM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/475e41c8-2519-4e2c-889d-a6d71167eaa0">
+
+merge main with develop:
+<img width="1184" alt="Screenshot 2023-09-10 at 3 46 18 AM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/014eec16-f9ba-4a76-869a-bcad4dc220ef">
