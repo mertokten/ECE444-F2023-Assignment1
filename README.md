@@ -8,3 +8,8 @@ screenshot for activity 2:
 
 screenshot for activity 3:
 <img width="799" alt="Screenshot 2023-09-09 at 9 28 07 PM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/03b98d14-6d7e-4ae7-993c-fd50a80902fb">
+
+activity 4:
+commit utils.py
+<img width="594" alt="Screenshot 2023-09-10 at 1 31 16 AM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/a8f70028-391b-4fe5-beda-aaf9de92721b">
+
